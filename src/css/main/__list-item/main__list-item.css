@@ -1,0 +1,23 @@
+.main__list-item {
+    cursor: pointer;
+    padding: 20px;
+    border-radius: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: white;
+}
+
+.main__list-item:hover {
+    outline: 5px solid black;
+}
+
+.main__list-item_primary {
+    cursor: auto;
+    width: 400px;
+}
+
+.main__list-item_minor {
+    cursor: auto;
+    width: 200px;
+}

@@ -1,0 +1,4 @@
+.main__desk-content {
+    display: flex;
+    justify-content: space-between;
+}
